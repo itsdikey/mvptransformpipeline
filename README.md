@@ -1,4 +1,4 @@
-# mvptransformpipeline
+# Model-View-Projection pipeline
 Model-View-Projection transform pipeline implemented in Java. Using custom Bresenham's line drawing algorithm.
 For Computer Graphics class, offered in AUA 2019 Spring. 
 
